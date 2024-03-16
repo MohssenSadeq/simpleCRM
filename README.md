@@ -25,3 +25,6 @@ It's a C# system that manage travel agenies
 2) use the fowllowing Administration user name and password to login into the system. 
    Username : Mohsen
    Password:  000000
+
+# Licinse 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
